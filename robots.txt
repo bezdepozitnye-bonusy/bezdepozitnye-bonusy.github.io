@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: bezdepozitnye-bonusy.github.io
+Sitemap: https://bezdepozitnye-bonusy.github.io/sitemap.xml
